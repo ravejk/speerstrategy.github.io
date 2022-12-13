@@ -1748,7 +1748,7 @@ h1 {
   line-height: 1.2; }
 
 h2 {
-  font-size: 2.25rem;
+  font-size: 2rem;
   line-height: 1.3;
   font-weight: 700;}
 
@@ -3642,7 +3642,7 @@ ul.icons {
   #banner .intro {
     text-align: left;
     display:inline-block;
-    margin: 1rem 0 0 0;
+    margin: 0rem 0 0 0;
     padding: 0 0 0 0.75rem;
     vertical-align: top;
     height: 10rem;
